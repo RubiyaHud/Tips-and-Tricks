@@ -1,1 +1,2 @@
-# Tips-and-Tricks-VS-Code-
+# Tips-and-Tricks-
+## VS-Code
