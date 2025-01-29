@@ -5,7 +5,9 @@
       Install the **Live Server** extension in VS Code
        ![image](https://github.com/user-attachments/assets/827f5521-3f5b-4399-8a89-f3ff0d6a7669)
 2. <ins> How to get the suggestions of a class in Tailwind CSS :</ins>
-      * 
+      * Install the extension Tailwind CSS intellisense and Restart the project (if required)
+         ![image](https://github.com/user-attachments/assets/3df2d931-2036-45cd-8969-4a91683531d7)
+
       * Avoid using "#" in the project name
       ![image](https://github.com/user-attachments/assets/671e564c-33e3-41c8-a8c2-28b774051c62)
 
