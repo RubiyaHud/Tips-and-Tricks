@@ -15,6 +15,8 @@
 ## JS (JavaScript)
 1. Get the **Console** for JS coding, by Clicking on **right mouse => **Inspect****
    ![image](https://github.com/user-attachments/assets/e1b7e766-5346-4d75-98d9-362dd2a44871)
+2. JavaScript code can be written and tested in the **Console window**
+   ![image](https://github.com/user-attachments/assets/35dc1134-7fcc-4106-8bce-17747536faa5)
 
    
    
