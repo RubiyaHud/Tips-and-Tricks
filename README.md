@@ -12,5 +12,10 @@
       ![image](https://github.com/user-attachments/assets/671e564c-33e3-41c8-a8c2-28b774051c62)
 
 
+## JS (JavaScript)
+1. Get the **Console** for JS coding, by Clicking on **right mouse => **Inspect****
+   ![image](https://github.com/user-attachments/assets/e1b7e766-5346-4d75-98d9-362dd2a44871)
 
+   
+   
 
