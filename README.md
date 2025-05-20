@@ -17,7 +17,7 @@
    ![image](https://github.com/user-attachments/assets/e1b7e766-5346-4d75-98d9-362dd2a44871)
 2. JavaScript code can be written and tested in the **Console window**
    ![image](https://github.com/user-attachments/assets/35dc1134-7fcc-4106-8bce-17747536faa5)
-3. Use curly braces `{}` while writing `JS Code` inside html code. For example: `{handleClick}` is a `JS function`
+3. Use curly braces `{}` while writing `JS Code` inside **html code**. For example: `{handleClick}` is a `JS function`
    
    ![image](https://github.com/user-attachments/assets/9828c151-91ad-42e7-ace5-33baede56849)
 
